@@ -1,0 +1,24 @@
+#todo-display {
+  display: inline-block;
+  width: 50%;
+  height: auto;
+  border: 2px solid darkgoldenrod;
+  margin: 5% 10%;
+}
+
+.todo-box {
+  width: max-content;
+  height: auto;
+  border: 1px solid black;
+  margin: 10% 25%;
+  padding: 5%;
+}
+
+#btn-grp {
+  display: inline-block;
+}
+
+#btn-grp > button {
+  display: block;
+  margin-top: 10%;
+}
